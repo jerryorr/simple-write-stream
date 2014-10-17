@@ -1,0 +1,15 @@
+{
+  "name": "simple-write-stream",
+  "version": "1.0.0",
+  "description": "A simple Readable stream that you can write to at will.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/test.js"
+  },
+  "author": "Jerry Orr <orr94@yahoo.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^1.21.5"
+  }
+}
